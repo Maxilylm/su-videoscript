@@ -2,7 +2,7 @@
 
 > One topic in, a full short-form video package out: hooks, a timestamped script, a storyboard, and CTAs.
 
-**[Live demo](https://su-videoscript.vercel.app)**
+**[Live demo](https://videoscript-mlx.vercel.app)**
 
 Scripting a video means solving four separate problems — the opening hook, the spoken script, what the camera shows, and how you ask for the follow. VideoScript Studio asks Llama 3.3 for all four in one structured response, keyed to the platform you chose so the timestamps match its runtime: 15-60 seconds for TikTok, 60 for Shorts, 30-90 for Reels, or 5-15 minutes for long-form YouTube. Each of the five hooks uses a different persuasion style and comes with an explanation of why it works, so you can pick rather than guess.
 
@@ -34,4 +34,4 @@ Requires `GROQ_API_KEY` in `.env.local`, read by the `/api/generate` route.
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).
